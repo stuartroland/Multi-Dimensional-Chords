@@ -1,6 +1,6 @@
 # Multi-Dimensional-Chords
 
-A novel synthesis algorithm designed to explore the non-duality of pitch and rhythm, both of which are fundamentally frequency.
+A novel synthesis algorithm I designed to explore the non-duality of pitch and rhythm, both of which are fundamentally frequency.
 
 Both the frequencies of the tones that make up the multi-dimensional chord and the rhythms at which those tones are played are derived from the same ratios.
 
