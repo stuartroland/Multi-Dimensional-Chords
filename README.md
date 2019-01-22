@@ -20,7 +20,7 @@ A 10 second sample of this minor triad multi-dimensional chord played with a fun
 Also included is a short "song" created entirely with Multi-Dimensional Chords, called Fractal Fragment. The ratios between the pitch frequencies and the rhythmic frequencies are varied extensively for musical effect (varying the rate that the song pulses/undulates at to drive the song forward).
 
 #### Binaural Beats Track for Meditation and Relaxation
-Finally I included an example of a 
+Finally I included an example of a binaural beats track I made using my BinauralB, IsochronicTone, and MDC classes that I developed. This is a long track that is meant to relax the listener with the simple but beautiful sounds that this code can create. Over the course of the track, the rhythm slows gradually but significantly, diving deeper into the multi-dimensional chords throughout.
 
 
 ## Running the Code
